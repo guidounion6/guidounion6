@@ -74,8 +74,9 @@
 </details>
 
 <details><summary> My proyects 🗂️​🏆 ​</summary>
-
-<h3> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Veronicayf&repo=TripInSight_server)(https://github.com/Veronicayf/TripInSight_server) </h3>
+<br>
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Veronicayf&repo=TripInSight_server)(https://github.com/Veronicayf/TripInSight_server) 
+ <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guidounion6&repo=Proyecto-Individual-Countries)(https://github.com/guidounion6/Proyecto-Individual-Countries)
 </details>
 
