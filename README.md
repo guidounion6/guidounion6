@@ -1,8 +1,8 @@
 <div align=center> 
-<span>
+
  <h1> Hi I'm Guido...Nice to meet you 👋</h1>
  <h4> I am a Full Stack Developer </h4>
- </span>
+ 
 
 </div>
 
