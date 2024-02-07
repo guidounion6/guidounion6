@@ -77,9 +77,31 @@
 
 <details><summary> My proyects 🗂️​🏆 ​</summary>
 
+<div align=center>
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guidounion6&repo=Proyecto-Individual-Countries)](https://github.com/guidounion6/Proyecto-Individual-Countries)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Veronicayf&repo=TripInSight_server)](https://github.com/Veronicayf/TripInSight_server)
 
+</div>
 </details>
 
+<details> <summary> Contact Me! 📲​ </summary>
+
+ <div align="center">
+    <h2>You can reach me by:</h2>
+    <p>
+      <a href="https://www.linkedin.com/in/guido-contartese/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="guido" height="30">
+      </a>
+      <a href="mailto:guidocontartese90@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="guido" height="30">
+      </a>
+    </p>
+  </div>
+</details>
+
+
+
+ 
+</details>
 
