@@ -89,17 +89,14 @@
 
  <div align="center">
     <h2>You can reach me by:</h2>
-    <p>
-      <a href="https://www.linkedin.com/in/guido-contartese/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="guido" height="30">
-      </a>
-      <a href="mailto:guidocontartese90@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="guido" height="30">
-      </a>
-    </p>
-
   <a href="https://www.linkedin.com/in/guido-contartese/" target="blank"><img align="center" src="https://img.shields.io/badge/Guido Contartese-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:guidocontartese90@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/guidocontartese90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/guidounion6" target="blank"><img align="center" src="https://img.shields.io/badge/guidounion6-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
 </details>
+
+<div align=center> 
+
+<h3>✔️ Thanks for your time ✔️ </h3>
+
+</div>
 
 
